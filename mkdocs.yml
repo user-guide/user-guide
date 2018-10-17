@@ -1,0 +1,10 @@
+site_name: MASA User Guide
+theme:
+  name: 'material'
+nav: 
+  - Home: index.md
+  - TDMS Ticket System: 
+    - 'User': 'ticket_system_user.md'
+    - 'Technician': 'ticket_system_technician.md'
+    - 'Admin': 'ticket_system_admin.md'
+    - 'Registration': 'ticket_system_registration.md'
