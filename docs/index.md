@@ -1,4 +1,4 @@
-# Welcome to MASA User Guide
+# Welcome to Penta User Guide
 
 	dapatkan yang ingin anda ketahui disini!
 	Punya pertanyaan?
