@@ -1,15 +1,15 @@
 # Ticket System for User
 
-`Jika belum punya akun TDMS, cara daftarnya` [disini](ticket_system_registration.md)
+`Jika belum punya akun IT-Helpdesk, cara daftarnya` [disini](ticket_system_registration.md)
 
 ## Buka browser
 `Bisa menggunakan Mozilla Firefox, atau Google Chrome.`
 
-## Buka alamat tdms.co
-`Masukan tdms.co pada address bar atau klik` [disini](http://tdms.co)`,Kemudian masukan user dan password web security yang telah diberikan pada saat registrasi, jika login web security berhasil anda akan diarahkan ke halaman login seperti pada gambar dibawah ini.`
+## Buka alamat http://ithelpdesk.bengkelbos.co.id
+`Masukan http://ithelpdesk.bengkelbos.co.id pada address bar atau klik` [disini](http://ithelpdesk.bengkelbos.co.id)`,Kemudian login seperti pada gambar dibawah ini.`
 
-![Buka TDMS](img/1.go-to-tdms.gif)
-*Gambar 1: Buka alamat tdms.co kemudian login*
+![Buka IT-Helpdesk](img/1.go-to-tdms.gif)
+*Gambar 1: Buka alamat http://ithelpdesk.bengkelbos.co.id kemudian login*
 
 ## Pilih menu Ticket
 `Pilih System > Ticket Support, Pada halaman ticket, terdapat tiga tab, yaitu OPEN, RESPON, dan CLOSE.`
