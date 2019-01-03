@@ -4,5 +4,5 @@
 - Harga, discount akan diupdate sesuai dengan customer pada tabel `master price tbr`
 - Pastikan customer, sku, harga & diskon sudah ada pada tabel  `master price tbr`
 
-![PO Live To MASA](../../img/fitur/dropship/po_live_to_masa.png)
+![PO Live To MASA](../../img/fitur/dropship/po_live_to_masa.PNG)
 *Gambar 1: PO Live To Masa*
