@@ -1,10 +1,24 @@
-site_name: Penta User Guide
+site_name: TDMS User Guide
 theme:
   name: 'material'
 nav: 
   - Home: index.md
-  - TDMS Ticket System: 
-    - 'User': 'ticket_system_user.md'
-    - 'Technician': 'ticket_system_technician.md'
-    - 'Admin': 'ticket_system_admin.md'
-    - 'Registration': 'ticket_system_registration.md'
+  - TDMS manual:
+    - Ticket System: 
+      - 'User': 'manual/ticket/ticket_system_user.md'
+      - 'Technician': 'manual/ticket/ticket_system_technician.md'
+      - 'Admin': 'manual/ticket/ticket_system_admin.md'
+      - 'Registration': 'manual/ticket/ticket_system_registration.md'
+      # - Alokasi Tiket:
+      #   - 'New': 'ticket/ticket_system_registration.md'
+  #   - Asset Management: 
+  #     - 'Master Asset': 'ticket/ticket_system_registration.md'
+  #     - 'Inventory Asset': 'ticket/ticket_system_registration.md'
+  - TDMS Feature:
+    - Dropship:
+      - 'Update Harga PO Live': 'fitur/dropship/dropship_update_price.md'
+      - 'Create direct sales by Posting SJ MASA': 'fitur/dropship/dropship_create_sales.md'
+    #   - 'Create Sales by Posting SJ Pabrik': 'ticket/ticket_system_user.md'
+    # - PO Alokasi:
+    #   - 'Alokasi PO Cabang': 'ticket/ticket_system_user.md'
+
